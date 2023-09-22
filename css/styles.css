@@ -8,13 +8,13 @@
 h2, h3 {
     color:var(--accent-color);
 }
-/* h2 {
+ h2 {
     color:  red;
 } */
-/* *{
+ *{
     color: green;
-} */
-/*a{
+} 
+a{
     text-decoration: none;
 }
 .list {
@@ -48,7 +48,7 @@ nav + a {
 .hero~p {
     background-color: gray;
 }
-*/
+
 
 
 h2, h3 {
